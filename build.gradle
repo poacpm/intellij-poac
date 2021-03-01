@@ -33,7 +33,7 @@ repositories {
 }
 
 dependencies {
-    testCompile 'junit:junit:4.13.1'
+    testCompile 'junit:junit:4.13.2'
     compile "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 }
 
